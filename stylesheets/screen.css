@@ -1,0 +1,7 @@
+/* Watchdog Stylesheet
+  screen.css - Sort stylesheets for proper loading
+  coded by: Bruce Clark of Fluidvision.net */
+
+/* import stylesheets and hide from ie/mac \*/
+@import url("main.css");
+/* end import/hide */
